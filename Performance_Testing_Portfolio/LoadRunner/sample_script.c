@@ -1,0 +1,1 @@
+// Sample LoadRunner script placeholder
